@@ -1,0 +1,3 @@
+class JPersonne extends Personne {
+    
+}
